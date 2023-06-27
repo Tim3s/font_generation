@@ -14,3 +14,17 @@ Our network requires pandas, numpy, torch, matplotlib, and jamo package for trai
 ## How to use
 
 ### Preprocessing
+Prepare otf or ttf font file for style criteria
+```
+python preprocess.py -p font_path
+```
+
+### Training
+```
+python train.py -s source_font_path -t target_font_path
+```
+
+### Testing
+```
+python test.py -txt '테스트코드'
+```
