@@ -1,0 +1,5 @@
+figs/*
+model/*
+!model/500_trained.pt
+test/*
+__pycache__
