@@ -11,6 +11,6 @@ As shown above, we had composed our network with DCGAN & pix2pix baseline. We at
 ## Requirement
 Our network requires pandas, numpy, torch, matplotlib, and jamo package for train & test the model.
 
-## Train
+## How to use
 
-## Test
+### Preprocessing
