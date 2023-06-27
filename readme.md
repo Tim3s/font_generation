@@ -5,9 +5,9 @@
 
 As shown above, we had composed our network with DCGAN & pix2pix baseline. We attatched embeddings for including rich representation about "음소". This embeddings lead the data to contain geometry information as condition.
 
-## requirement
+## Requirement
+Our network requires pandas, numpy, torch, matplotlib, and jamo package for train & test the model.
 
+## Train
 
-## train
-
-## test
+## Test
